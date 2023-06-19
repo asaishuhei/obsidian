@@ -8,3 +8,7 @@
 ```php
 imagedestroy ( resource $image )
 ```
+
+注意点として、一つのリソースIDを複数の変数で管理している場合、被っているIDすべてが削除される。
+
+なので`if (get_resource_type($new_image) === 'gd')`でまだ消されていないリソースをあぶりだす必要がある。
