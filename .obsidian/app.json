@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_Inbox",
+  "attachmentFolderPath": "03_Extra"
+}
