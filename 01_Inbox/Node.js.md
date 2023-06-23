@@ -1,6 +1,6 @@
  #javascript 
 
-Node.jsは[Javascript](Javascript.md)をサーバーサイド側で動作させる仕組みのこと。
+Node.jsは[Javascript](Javascript.md)をサーバーサイド側で動作させる実行環境のこと。
 
 ### メリット
 - Node.jsは大量アクセスに強く、処理をリアルタイムで実行可能。

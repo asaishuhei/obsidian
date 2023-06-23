@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75c1ad7c7f18018a",
+            "id": "de322e9a58dc01e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/物理サーバー.md",
+                "file": "01_Inbox/Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "aa409ee2b5364963",
+            "id": "a12c130aba2a8ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/共用サーバー.md",
+                "file": "01_Inbox/Githubにファイルをアップロードする方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,77 @@
             }
           },
           {
-            "id": "3bc8b5e7b6eb9c76",
+            "id": "2b02c888edcae73d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/専用サーバー.md",
+                "file": "01_Inbox/Github.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c6b57161b6d289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/Git bash.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02fb473651d6b46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/ターミナルエミュレータ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c92fa200c957ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/エミュレータ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b1c5684d961ae8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/シェルスクリプト.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9fbf4a5b172ee08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/bash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,6 +112,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "プロキシ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Inbox/物理サーバー.md",
+                "file": "01_Inbox/Githubにファイルをアップロードする方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Inbox/物理サーバー.md",
+                "file": "01_Inbox/Githubにファイルをアップロードする方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Inbox/物理サーバー.md"
+                "file": "01_Inbox/Githubにファイルをアップロードする方法.md"
               }
             }
           },
@@ -184,56 +250,56 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75c1ad7c7f18018a",
+  "active": "a12c130aba2a8ba1",
   "lastOpenFiles": [
-    "01_Inbox/専用サーバー.md",
-    "01_Inbox/共用サーバー.md",
-    "01_Inbox/物理サーバー.md",
-    "01_Inbox/Nginx.md",
-    "01_Inbox/APサーバー.md",
+    "02_Extra/リモートリポジトリ作成.png",
+    "01_Inbox/ターミナル.md",
+    "01_Inbox/Githubにファイルをアップロードする方法.md",
+    "02_Extra/ローカルリポジトリの隠しファイル.png",
+    "01_Inbox/Git.md",
+    "01_Inbox/Github.md",
+    "01_Inbox/ターミナルエミュレータ.md",
+    "01_Inbox/エミュレータ.md",
+    "01_Inbox/Git bash.md",
+    "01_Inbox/bash.md",
+    "01_Inbox/シェルスクリプト.md",
+    "01_Inbox/スクリプト.md",
+    "01_Inbox/シェル.md",
+    "01_Inbox/AngularJS.md",
+    "01_Inbox/フェッチ.md",
+    "01_Inbox/プル.md",
+    "01_Inbox/マージ.md",
+    "01_Inbox/ブランチ.md",
+    "02_Extra/ブランチ.png",
+    "01_Inbox/プッシュ.md",
+    "01_Inbox/クローン.md",
+    "01_Inbox/分散型バージョン管理システム.md",
+    "01_Inbox/ワークツリー.md",
+    "01_Inbox/インデックス.md",
+    "01_Inbox/リポジトリ.md",
+    "01_Inbox/コミット.md",
+    "01_Inbox/リモートリポジトリ.md",
+    "01_Inbox/ローカルリポジトリ.md",
+    "02_Extra/分散型.png",
+    "02_Extra/集中型バージョン管理システム.png",
+    "02_Extra/集中型バージョン管理システム.png.crdownload",
+    "02_Extra/DNS.png",
+    "02_Extra/ホスト名.png",
+    "02_Extra/LAN.png",
+    "02_Extra/LAN.png.crdownload",
+    "02_Extra/ドメイン.png",
     "02_Extra/APsetver.png",
     "02_Extra/APsetver.png.crdownload",
-    "01_Inbox/ロードバランサー.md",
-    "01_Inbox/プロキシ.md",
-    "01_Inbox/リバースプロキシ.md",
-    "01_Inbox/CUI.md",
-    "01_Inbox/Webサーバーソフト.md",
-    "01_Inbox/Apache.md",
-    "01_Inbox/Shell.md",
-    "01_Inbox/カーネル.md",
-    "01_Inbox/ターミナル.md",
     "02_Extra/CUI.png",
-    "01_Inbox/GUI.md",
-    "02_Extra/リバースプロキシ.jpg",
     "02_Extra/リバースプロキシ.jpg.crdownload",
-    "02_Extra/プロキシ.jpg",
     "無題のファイル.canvas",
     "02_Extra/プロキシ.jpg.crdownload",
-    "01_Inbox/Webサーバー.md",
-    "01_Inbox/imagecreatetruecolor.md",
-    "01_Inbox/imagecolorat.md",
-    "01_Inbox/メソッド.md",
-    "01_Inbox/クラス.md",
-    "02_Extra/shell.png",
     "02_Extra/shell.png.crdownload",
-    "01_Inbox/コンソール.md",
-    "02_Extra/GUI.png",
-    "01_Inbox/ポリモーフィズム.md",
-    "01_Inbox/カプセル化.md",
-    "02_Extra/kapuseruka.png",
     "02_Extra/kapuseruka.png.crdownload",
     "02_Extra/カプセル化,png",
-    "02_Extra/カプセル化,png.webp",
     "02_Extra/カプセル化,png.webp.crdownload",
-    "01_Inbox/プロパティ.md",
-    "01_Inbox/インスタンス.md",
-    "01_Inbox/コンストラクタ.md",
-    "02_Extra/object_instance.png",
     "02_Extra/object_instance.png.crdownload",
     "03_Canvas/今すべきこと.canvas",
-    "02_Extra/result_single_duble.png",
-    "02_Extra/result.png.crdownload",
-    "03_Extra/SaaS_PaaS_IaaS.jpg.crdownload",
     "無題のファイル 1.canvas"
   ]
 }
