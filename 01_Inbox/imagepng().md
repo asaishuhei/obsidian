@@ -2,7 +2,7 @@
 
 画像データを出力できる[PHP](PHP.md)の関数。
 
-パスで指定した画像を出力したい場合は、[imagecreatefrompng 関数](imagecreatefrompng%20関数.md)で[画像リソース](画像リソース.md)上に確保し、[MIMEタイプ](MIMEタイプ.md)を`image/png`にしておく必要がある。
+パスで指定した画像を出力したい場合は、[imagecreatefrompng](imagecreatefrompng.md)で[画像リソース](画像リソース.md)上に確保し、[MIMEタイプ](MIMEタイプ.md)を`image/png`にしておく必要がある。
 
 ### 引数の内容
 

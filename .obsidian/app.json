@@ -5,5 +5,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "01_Inbox",
   "attachmentFolderPath": "03_Extra",
-  "focusNewTab": true
+  "focusNewTab": true,
+  "autoConvertHtml": false,
+  "newLinkFormat": "relative"
 }

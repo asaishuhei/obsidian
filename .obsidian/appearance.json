@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "obsidian",
   "textFontFamily": "游ゴシック",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "translucency": false
 }
