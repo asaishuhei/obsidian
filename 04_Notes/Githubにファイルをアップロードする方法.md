@@ -1,4 +1,3 @@
-#git 
 
 ①[Github](../01_Inbox/Github.md)で[リモートリポジトリ](../01_Inbox/リモートリポジトリ.md)を作成する。  
   
