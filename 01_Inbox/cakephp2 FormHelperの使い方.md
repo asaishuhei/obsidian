@@ -1,4 +1,4 @@
- #cakephp2 #form
+ 
 
 ```php
 $this->Form->create('モデル名', array('action' => 'アクション名'));

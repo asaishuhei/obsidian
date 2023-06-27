@@ -1,4 +1,4 @@
-#server 
+
 
 VPSとは「Virtual Private Server」の略で仮想上の個人的なサーバーという意味で、仮想専用サーバーともいわれる。
 

@@ -1,4 +1,4 @@
-#OS #PC 
+
 
 天才大学生が[UNIX](UNIX.md)を基に作ったOS。
 

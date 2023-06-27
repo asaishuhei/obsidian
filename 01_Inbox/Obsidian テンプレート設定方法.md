@@ -1,5 +1,5 @@
 
- #obsidian #template
+ 
 
 
 [Obsidian](Obsidian.md)でテンプレートファイルを設定することで、ファイル新規作成するたびに記述している文字を最初から表示することができる。

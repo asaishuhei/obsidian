@@ -1,4 +1,4 @@
- #javascript/ライブラリ  #javascript 
+ /ライブラリ  
 
 [Javascript](Javascript.md)のライブラリ。
 

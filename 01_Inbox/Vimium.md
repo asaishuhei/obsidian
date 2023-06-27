@@ -1,4 +1,4 @@
- #vim #chrome
+ 
 
 [Vim](Vim.md)を元にしたchrome拡張アプリ
 

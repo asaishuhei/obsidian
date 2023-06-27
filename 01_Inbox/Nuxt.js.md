@@ -1,4 +1,4 @@
- #javascript #javascript/フレームワーク 
+  
 
 Nuxt.jsは[Vue.js](Vue.js.md)をベースとした[Javascript](Javascript.md)のフレームワーク。
 

@@ -1,4 +1,4 @@
- #php #server #variable 
+ 
 
 ### $\_SERVERとは
 - [PHP](PHP.md)における[スーパーグローバル変数](スーパーグローバル変数.md)の一つ

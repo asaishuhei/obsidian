@@ -1,4 +1,4 @@
- #cakephp2 #form #post 
+ 
 
 postされたデータをコントローラで受け取るとき、
 `$this->request->data`で受け取ると配列になる

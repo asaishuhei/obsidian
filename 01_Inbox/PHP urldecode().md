@@ -1,4 +1,4 @@
- #php #function 
+ 
 
 [PHP](PHP.md)で使える関数
 

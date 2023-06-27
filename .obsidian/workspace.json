@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "8fab8d062d2ead98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/PHP $SESSION.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "436ea601f4924384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/PHP $SESSION.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7f453b22bf4b1a60",
             "type": "leaf",
             "state": {
@@ -112,6 +138,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -141,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PHP/フレームワーク",
+                "query": "tag:#variable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +185,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Notes/GDライブラリを使って透明部分を含む、色変更した画像を重ねる.md",
+                "file": "01_Inbox/PHP $SESSION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Notes/GDライブラリを使って透明部分を含む、色変更した画像を重ねる.md",
+                "file": "01_Inbox/PHP $SESSION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Notes/GDライブラリを使って透明部分を含む、色変更した画像を重ねる.md"
+                "file": "01_Inbox/PHP $SESSION.md"
               }
             }
           },
@@ -250,15 +278,17 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "6c4fe9cc27fa9611",
+  "active": "436ea601f4924384",
   "lastOpenFiles": [
-    "04_Notes/無題のファイル.canvas",
+    "01_Inbox/imagecreatetruecolor.pdf",
+    "01_Inbox/display-block.md",
+    "01_Inbox/display-none.md",
+    "01_Inbox/PHP $SESSION.md",
     "04_Notes/GDライブラリを使って透明部分を含む、色変更した画像を重ねる.md",
+    "04_Notes/無題のファイル.canvas",
     "01_Inbox/スタイルシート言語.md",
     "2023-06-06.md",
-    "01_Inbox/display-block.md",
     "01_Inbox/display-inline-block.md",
-    "01_Inbox/display-none.md",
     "01_Inbox/text-align.md",
     "01_Inbox/vertical-align.md",
     "01_Inbox/visibility.md",
@@ -287,7 +317,6 @@
     "01_Inbox/MIMEタイプ.md",
     "01_Inbox/imagefill.md",
     "01_Inbox/imagecolorallocate.md",
-    "01_Inbox/imagecreatetruecolor.md",
     "04_Notes",
     "02_Extra/集中型バージョン管理システム.png.crdownload",
     "02_Extra/LAN.png.crdownload",

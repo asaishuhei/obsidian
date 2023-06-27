@@ -1,4 +1,4 @@
- #javascript/フレームワーク　#javascript 
+ 　
 
 読み方は「アンギュラージェイエス」
 

@@ -1,4 +1,4 @@
- #php #server 
+ 
 
 [PHP](PHP.md)で[セッション](セッション.md)を利用する手順を以下に記す
 1. `session_start();`

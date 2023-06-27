@@ -1,4 +1,4 @@
-#css 
+
 
 [display](display.md)の値の一つ。
 

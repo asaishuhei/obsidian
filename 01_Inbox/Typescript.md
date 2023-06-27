@@ -1,4 +1,4 @@
- #typescript #プログラミング言語
+ 
 
 [Javascript](Javascript.md)を拡張して作られた言語。なので、[Javascript](Javascript.md)のコードが使える。
 

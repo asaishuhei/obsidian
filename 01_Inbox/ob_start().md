@@ -1,4 +1,4 @@
-#php #function 
+
 
 [PHP](PHP.md)において、`echo "Hellow World";`などの出力を[バッファリング](バッファリング.md)機能をONにして保持することができる。
 

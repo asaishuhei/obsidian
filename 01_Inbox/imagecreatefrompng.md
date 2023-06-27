@@ -1,4 +1,4 @@
- #php #GD #function 
+ 
 
 `imagecreatefrompng`とは、指定したpng画像を[画像リソース](画像リソース.md)に確保する[PHP](PHP.md)の[GDライブラリ](GDライブラリ.md)の関数である。
 

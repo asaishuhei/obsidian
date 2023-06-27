@@ -1,4 +1,4 @@
-#php #Library #cakephp #image 
+
 
 ### GDライブラリとは
 画像データを操作するための関数を集めた[PHP](PHP.md)ライブラリのこと

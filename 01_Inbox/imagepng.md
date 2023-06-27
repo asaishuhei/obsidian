@@ -1,4 +1,4 @@
- #php #GD #function 
+ 
 
 画像データを出力できる[PHP](PHP.md)の関数。
 
