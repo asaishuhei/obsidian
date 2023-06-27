@@ -1,0 +1,1 @@
+CSS(Cascading Style Sheets)とは、[スタイルシート言語](スタイルシート言語.md)の一つであり、HTMLの色やサイズを設定することができる。

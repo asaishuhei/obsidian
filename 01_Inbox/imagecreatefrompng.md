@@ -21,5 +21,5 @@ imagedestroy($img);
 
 - 最初に[PHP](PHP.md)ファイルではなく、画像を表示するために[MIMEタイプ](MIMEタイプ.md)を指定する。
 - [画像リソース](画像リソース.md)を取得する
-- [imagepng()](imagepng().md)で画像を出力
-- [imagedestroy 関数](imagedestroy%20関数.md)で[メモリ](メモリ.md)のお掃除
+- [imagepng](imagepng.md)で画像を出力
+- [imagedestroy](imagedestroy.md)で[メモリ](メモリ.md)のお掃除

@@ -131,7 +131,11 @@ public function gd_image_create($new_color)
 - [imagesetpixel](../01_Inbox/imagesetpixel.md)
 - [imagecreatetruecolor](../01_Inbox/imagecreatetruecolor.md)
 - [imagecolorallocatealpha](../01_Inbox/imagecolorallocatealpha.md)
-- 
+- [imagefill](../01_Inbox/imagefill.md)
+- [imagepng](../01_Inbox/imagepng.md)
+- [imagedestroy](../01_Inbox/imagedestroy.md)
+
+
 ## 2.メソッドで関数を呼び出す
 
 ```php

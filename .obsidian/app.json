@@ -4,8 +4,8 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "01_Inbox",
-  "attachmentFolderPath": "03_Extra",
+  "attachmentFolderPath": "02_Extra",
   "focusNewTab": true,
-  "autoConvertHtml": false,
+  "autoConvertHtml": true,
   "newLinkFormat": "relative"
 }

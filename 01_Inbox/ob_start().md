@@ -19,4 +19,4 @@ $image_data = ob_get_contents();
 
 ob_end_clean(); // 出力バッファリングを終了
 ```
-上記のコードは[imagepng()](imagepng().md)してしまうと画像をその場で出力してしまうので、それを防ぐことができる。
+上記のコードは[imagepng](imagepng.md)してしまうと画像をその場で出力してしまうので、それを防ぐことができる。
